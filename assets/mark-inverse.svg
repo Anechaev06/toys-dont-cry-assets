@@ -1,0 +1,17 @@
+<svg viewBox="0 0 280 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Sofya Nechaeva mark — inverse">
+  
+  <rect width="280" height="300" fill="#0A0A0A"></rect>
+
+  
+  <circle cx="72" cy="74" r="20" stroke="#FFFFFF" stroke-width="4" fill="none"></circle>
+  <circle cx="72" cy="74" r="7" fill="#FFFFFF"></circle>
+
+  
+  <path fill="#FFFFFF" d="&#xA;    M 142 18&#xA;    C 168 6, 200 22, 222 58&#xA;    C 244 40, 262 68, 252 106&#xA;    C 272 116, 268 152, 246 170&#xA;    C 260 198, 246 240, 214 252&#xA;    C 208 274, 178 284, 154 272&#xA;    C 140 286, 112 282, 98 268&#xA;    C 70 280, 42 260, 44 234&#xA;    C 20 224, 12 188, 32 170&#xA;    C 14 154, 16 116, 38 104&#xA;    C 24 68, 50 38, 76 50&#xA;    C 80 20, 116 8, 142 18 Z&#xA;  "></path>
+
+  
+  <ellipse cx="148" cy="114" rx="32" ry="36" fill="#0A0A0A"></ellipse>
+
+  
+  <ellipse cx="150" cy="204" rx="54" ry="64" fill="#0A0A0A"></ellipse>
+</svg>

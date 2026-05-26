@@ -1,0 +1,8 @@
+<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  
+  <path fill="#0A0A0A" d="&#xA;    M 16 2&#xA;    C 20 1, 24 3, 26 7&#xA;    C 29 5, 31 8, 30 12&#xA;    C 32 13, 31 17, 29 19&#xA;    C 30 22, 28 27, 25 28&#xA;    C 24 31, 20 32, 18 30&#xA;    C 16 32, 12 31, 11 29&#xA;    C 8 31, 5 28, 5 25&#xA;    C 2 24, 1 20, 3 18&#xA;    C 1 16, 2 12, 4 11&#xA;    C 3 7, 6 3, 9 4&#xA;    C 10 1, 14 1, 16 2 Z&#xA;  "></path>
+  
+  <ellipse cx="16.5" cy="12" rx="4" ry="4.5" fill="white"></ellipse>
+  
+  <ellipse cx="17" cy="22" rx="6.5" ry="7.5" fill="white"></ellipse>
+</svg>
